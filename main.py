@@ -1,5 +1,5 @@
 import random
-
+#random module is used to generate random numbers
 computer = -1
 youstr = input("Enter your choice: ")
 
